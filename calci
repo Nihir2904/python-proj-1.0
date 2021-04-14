@@ -26,7 +26,7 @@ def multiplication ():
     while n != 0:
         ans = ans * n
         t+=1
-        n = float(input("Enter another number (0 to calculate): "))
+        n = float(input("Enter another num (0 to calculate): "))
     return [ans,t]
 def average():
     an = []
