@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 
 This is a Python implementation of 2-D Minesweeper!
 
@@ -6,7 +6,7 @@ First clone the repo,
 
 You start a game by running the script:
 ```
-python3 minesweeper.py
+python3 Minesweeper.py
 ```
 (If you do not edit the parameters in the script, the script will automatically initialize it to a 10x10 board, with 10 bombs)
 
